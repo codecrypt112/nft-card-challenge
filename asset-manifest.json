@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nft-card-challenge/static/css/main.add306a8.css",
-    "main.js": "/nft-card-challenge/static/js/main.16b8285e.js",
+    "main.css": "/nft-card-challenge/static/css/main.39cfaaa9.css",
+    "main.js": "/nft-card-challenge/static/js/main.34ce7402.js",
     "static/media/image-equilibrium.jpg": "/nft-card-challenge/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
     "index.html": "/nft-card-challenge/index.html",
-    "main.add306a8.css.map": "/nft-card-challenge/static/css/main.add306a8.css.map",
-    "main.16b8285e.js.map": "/nft-card-challenge/static/js/main.16b8285e.js.map"
+    "main.39cfaaa9.css.map": "/nft-card-challenge/static/css/main.39cfaaa9.css.map",
+    "main.34ce7402.js.map": "/nft-card-challenge/static/js/main.34ce7402.js.map"
   },
   "entrypoints": [
-    "static/css/main.add306a8.css",
-    "static/js/main.16b8285e.js"
+    "static/css/main.39cfaaa9.css",
+    "static/js/main.34ce7402.js"
   ]
 }
