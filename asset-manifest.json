@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.add306a8.css",
+    "main.js": "/static/js/main.5185664d.js",
+    "static/media/image-equilibrium.jpg": "/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/index.html",
+    "main.add306a8.css.map": "/static/css/main.add306a8.css.map",
+    "main.5185664d.js.map": "/static/js/main.5185664d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.add306a8.css",
+    "static/js/main.5185664d.js"
+  ]
+}
